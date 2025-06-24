@@ -177,7 +177,7 @@ Hope you can help with the following:
 
 [2025.06] UniRelight: Learning Joint Decomposition and Synthesis for Video Relighting [paper](https://arxiv.org/pdf/2506.15673) [project](https://research.nvidia.com/labs/toronto-ai/UniRelight/)  
 
-
+[2025.06] TC-Light: Temporally Consistent Relighting for Dynamic Long Videos [paper](https://arxiv.org/pdf/2506.18904) [project](https://dekuliutesla.github.io/tclight/) [code](https://github.com/Linketic/TC-Light) ![GitHub Repo stars](https://img.shields.io/github/stars/Linketic/TC-Light)
 
 ### 3D
 
@@ -290,6 +290,8 @@ Hope you can help with the following:
 [2025.06] BecomingLit: Relightable Gaussian Avatars with Hybrid Neural Shading [paper](https://arxiv.org/pdf/2506.06271) [project](https://jonathsch.github.io/becominglit/)     
 
 [2025.06] [CVPR2025] GS-2DGS: Geometrically Supervised 2DGS for Reflective Object Reconstruction [paper](https://arxiv.org/pdf/2506.13110) [code](https://github.com/hirotong/GS2DGS) ![GitHub Repo stars](https://img.shields.io/github/stars/hirotong/GS2DGS)   
+
+[2025.06] 2D Triangle Splatting for Direct Differentiable Mesh Training [paper](https://arxiv.org/pdf/2506.18575) 
 
 ### Security
 
