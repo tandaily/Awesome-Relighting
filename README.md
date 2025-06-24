@@ -293,6 +293,8 @@ Hope you can help with the following:
 
 [2025.06] 2D Triangle Splatting for Direct Differentiable Mesh Training [paper](https://arxiv.org/pdf/2506.18575) 
 
+[2025.06] Light of Normals: Unified Feature Representation for Universal Photometric Stereo [paper](https://arxiv.org/pdf/2506.18882) [project](https://houyuanchen111.github.io/lino.github.io/) [code](https://github.com/houyuanchen111/LINO_UniPS) ![GitHub Repo stars](https://img.shields.io/github/stars/houyuanchen111/LINO_UniPS)
+
 ### Security
 
 [2021.08] [TIFS2024]  Adversarial Relighting Against Face Recognition [paper](https://arxiv.org/pdf/2108.07920)        
