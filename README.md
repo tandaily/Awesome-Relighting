@@ -165,7 +165,7 @@ Hope you can help with the following:
 
 [2025.02] VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation [paper](https://arxiv.org/pdf/2502.07531)  
 
-[2025.02] Light-A-Video: Training-free Video Relighting via Progressive Light Fusion [paper](https://arxiv.org/pdf/2502.08590)  [code](https://github.com/bcmi/Light-A-Video/)  ![GitHub Repo stars](https://img.shields.io/github/stars/bcmi/Light-A-Video)       
+[2025.02] [ICCV2025] Light-A-Video: Training-free Video Relighting via Progressive Light Fusion [paper](https://arxiv.org/pdf/2502.08590)  [code](https://github.com/bcmi/Light-A-Video/)  ![GitHub Repo stars](https://img.shields.io/github/stars/bcmi/Light-A-Video)       
 
 [2025.02] [CVPR2025] High-Fidelity Relightable Monocular Portrait Animation with Lighting-Controllable Video Diffusion Model  [paper](https://arxiv.org/pdf/2502.19894) [code](https://github.com/MingtaoGuo/Relightable-Portrait-Animation)  ![GitHub Repo stars](https://img.shields.io/github/stars/MingtaoGuo/Relightable-Portrait-Animation)   
 
