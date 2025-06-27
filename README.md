@@ -306,7 +306,12 @@ Hope you can help with the following:
 
 [CVIU2024] BiPR-RL: Portrait relighting via bi-directional consistent deep reinforcement learning  [paper](https://www.sciencedirect.com/science/article/pii/S1077314223002692)  
 
-[TMM2022] PR-RL: Portrait Relighting Via Deep Reinforcement Learning [paper](https://ieeexplore.ieee.org/document/9484089)       
+[TMM2022] PR-RL: Portrait Relighting Via Deep Reinforcement Learning [paper](https://ieeexplore.ieee.org/document/9484089)    
+
+### Autonomous Driving
+[2022.04] [CVPR2024] SIMBAR: Single Image-Based Scene Relighting For Effective Data Augmentation For Automated Driving Vision Tasks  [paper](https://arxiv.org/pdf/2204.00644)  
+
+[2025.06] MADrive: Memory-Augmented Driving Scene Modeling [paper](https://arxiv.org/pdf/2506.21520) [project](https://yandex-research.github.io/madrive/)  
 
 ## Datasets
 
