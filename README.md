@@ -147,7 +147,7 @@ Hope you can help with the following:
 
 [2025.05] SAIL: Self-supervised Albedo Estimation from Real Images with a Latent Diffusion Model [paper](https://arxiv.org/pdf/2505.19751v1)   
 
-[2025.06] DreamLight: Towards Harmonious and Consistent Image Relighting [paper](https://arxiv.org/pdf/2506.14549)
+[2025.06] DreamLight: Towards Harmonious and Consistent Image Relighting [paper](https://arxiv.org/pdf/2506.14549) [code](https://github.com/yongliu20/DreamLight) ![GitHub Repo stars](https://img.shields.io/github/stars/yongliu20/DreamLight)       
  
 
 ### Video
