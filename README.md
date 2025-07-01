@@ -332,12 +332,14 @@ Hope you can help with the following:
 ICCV2025 UniLight Workshop [link](https://unilight-workshop.github.io/unilight2025/#)     
 
 ## Software Products
-SwitchLight: https://www.switchlight.beeble.ai/   
-IC-Light: https://github.com/lllyasviel/IC-Light   
-Adobe ProjectPerfectBlend: https://x.com/Pinsky/status/1846351993478037857   
-Magnific Relight: https://x.com/javilopen/status/1805274155065176489   
-Clipdrop: https://clipdrop.co/relight   
-FreeLighting: https://github.com/liuyuxuan3060/FreeLighting  https://huggingface.co/spaces/wulongmetac/FreeLighting     
+SwitchLight: [https://www.switchlight.beeble.ai/](https://www.switchlight.beeble.ai/)   
+Switchlight 2.0: [https://app.beeble.ai/home](https://app.beeble.ai/home) [report](https://beeble.ai/research/switchlight-2-0-is-here)         
+IC-Light: https://github.com/lllyasviel/IC-Light [https://huggingface.co/spaces/lllyasviel/IC-Light](https://huggingface.co/spaces/lllyasviel/IC-Light)  [https://huggingface.co/spaces/lllyasviel/iclight-v2-vary](https://huggingface.co/spaces/lllyasviel/iclight-v2-vary)        
+LBM: [https://huggingface.co/spaces/jasperai/LBM_relighting](https://huggingface.co/spaces/jasperai/LBM_relighting)        
+Adobe ProjectPerfectBlend: [https://x.com/Pinsky/status/1846351993478037857](https://x.com/Pinsky/status/1846351993478037857)   
+Magnific Relight: [https://x.com/javilopen/status/1805274155065176489](https://x.com/javilopen/status/1805274155065176489)   
+Clipdrop: [https://clipdrop.co/relight](https://clipdrop.co/relight)   
+FreeLighting: [https://huggingface.co/spaces/wulongmetac/FreeLighting](https://huggingface.co/spaces/wulongmetac/FreeLighting)  [code](https://github.com/liuyuxuan3060/FreeLighting)    
 
 ## Related Work
 
