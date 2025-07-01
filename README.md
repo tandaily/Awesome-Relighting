@@ -101,6 +101,8 @@ Hope you can help with the following:
 
 [2024.10] [TOG2024] Generative Portrait Shadow Removal [paper](https://arxiv.org/pdf/2410.05525) 
 
+[2024.10] Noise Crystallization and Liquid Noise: Zero-shot Video Generation using Image Diffusion Models [paper](https://arxiv.org/pdf/2410.05322) [code](https://github.com/Strikewind/LiquidNoise) ![GitHub Repo stars](https://img.shields.io/github/stars/Strikewind/LiquidNoise)  
+
 [2024.11] [CVPR2025] ScribbleLight: Single Image Indoor Relighting with Scribbles [paper](https://arxiv.org/pdf/2411.17696)   
 
 [2024.11] SpotLight: Shadow-Guided Object Relighting via Diffusion [paper](https://arxiv.org/pdf/2411.18665)   
@@ -148,6 +150,8 @@ Hope you can help with the following:
 [2025.05] SAIL: Self-supervised Albedo Estimation from Real Images with a Latent Diffusion Model [paper](https://arxiv.org/pdf/2505.19751v1)   
 
 [2025.06] DreamLight: Towards Harmonious and Consistent Image Relighting [paper](https://arxiv.org/pdf/2506.14549) [code](https://github.com/yongliu20/DreamLight) ![GitHub Repo stars](https://img.shields.io/github/stars/yongliu20/DreamLight)       
+
+[2025.07] [SIGGRAPH2025] Physically Controllable Relighting of Photographs [paper](https://yaksoy.github.io/papers/SIG25-PhysicalRelighting.pdf) [project](https://yaksoy.github.io/PhysicalRelighting/)     
  
 
 ### Video
@@ -179,7 +183,55 @@ Hope you can help with the following:
 
 [2025.06] TC-Light: Temporally Consistent Relighting for Dynamic Long Videos [paper](https://arxiv.org/pdf/2506.18904) [project](https://dekuliutesla.github.io/tclight/) [code](https://github.com/Linketic/TC-Light) ![GitHub Repo stars](https://img.shields.io/github/stars/Linketic/TC-Light)
 
-### 3D
+### 3D (Face/Avatar)
+
+[2023.05] [TOG2023] NeRFFaceLighting: Implicit and Disentangled Face Lighting Representation Leveraging Generative Prior in Neural Radiance Fields [paper](https://dl.acm.org/doi/pdf/10.1145/3597300) [project](http://www.geometrylearning.com/NeRFFaceLighting/) [code](https://github.com/IGLICT/NeRFFaceLighting) ![GitHub Repo stars](https://img.shields.io/github/stars/IGLICT/NeRFFaceLighting)    
+ 
+[2023.08] [CVPR2024] Relightable and Animatable Neural Avatar from Sparse-View Video [paper](https://arxiv.org/pdf/2308.07903) [project](https://zju3dv.github.io/relightable_avatar) [code](https://github.com/zju3dv/RelightableAvatar) ![GitHub Repo stars](https://img.shields.io/github/stars/zju3dv/RelightableAvatar)    
+
+[2023.12] [AAAI2024] Relightable and Animatable Neural Avatars from Videos [paper](https://arxiv.org/pdf/2312.12877) [project](https://wenbin-lin.github.io/RelightableAvatar-page/) [code](https://github.com/wenbin-lin/RelightableAvatar) ![GitHub Repo stars](https://img.shields.io/github/stars/wenbin-lin/RelightableAvatar)    
+
+[2023.12] [ECCV2024] Relightable Neural Actor with Intrinsic Decomposition and Pose Control [paper](https://arxiv.org/pdf/2312.11587) [project](https://vcai.mpi-inf.mpg.de/projects/RNA/) [code](https://github.com/dluvizon/relightable-neural-actor) ![GitHub Repo stars](https://img.shields.io/github/stars/dluvizon/relightable-neural-actor)     
+
+[2023.12] [CVPR2024] Relightable Gaussian Codec Avatars [paper](https://arxiv.org/pdf/2312.03704.pdf) [project](https://shunsukesaito.github.io/rgca/) [code](https://github.com/facebookresearch/goliath) ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/goliath)    
+
+[2024.03] [CVPR2024] Holo-Relighting: Controllable Volumetric Portrait Relighting from a Single Image [paper](https://arxiv.org/pdf/2403.09632)     
+
+[2024.05] [CVPR2024] Real-time 3D-aware Portrait Video Relighting  [paper](https://arxiv.org/pdf/2410.18355)   [code](https://github.com/GhostCai/PortraitRelighting)  ![GitHub Repo stars](https://img.shields.io/github/stars/GhostCai/PortraitRelighting)        
+
+[2024.06] [NeurIPS2024] IllumiNeRF: 3D Relighting Without Inverse Rendering [paper](https://arxiv.org/pdf/2406.06527)  [project](https://illuminerf.github.io/) [code](https://github.com/illuminerf/illuminerf_results) ![GitHub Repo stars](https://img.shields.io/github/stars/illuminerf/illuminerf_results)       
+
+[2024.07] [SIGGRAPH2024] Lite2Relight: 3D-aware Single Image Portrait Relighting [paper](https://arxiv.org/pdf/2407.10487)         
+
+[2024.09] Instant Facial Gaussians Translator for Relightable and Interactable Facial Rendering [paper](https://arxiv.org/pdf/2409.07441) [project](https://dafei-qin.github.io/TransGS.github.io/)     
+
+[2024.10] [SIGGRAPH Asia 2024] DifFRelight: Diffusion-Based Facial Performance Relighting [paper](https://arxiv.org/pdf/2410.08188)  
+
+[2024.10] [SIGGRAPH Asia 2024] URAvatar: Universal Relightable Gaussian Codec Avatars [paper](https://arxiv.org/pdf/2410.24223) [project](https://junxuan-li.github.io/urgca-website/)      
+
+[2025.01] [SIGGRAPH2025] Relightable Full-Body Gaussian Codec Avatars [paper](https://arxiv.org/pdf/2412.05278) [project](https://neuralbodies.github.io/RFGCA/)   
+
+[2025.02] BEAM: Bridging Physically-based Rendering and Gaussian Modeling for Relightable Volumetric Video [paper](https://arxiv.org/pdf/2502.08297)    
+
+[2025.03] [CVPR2025] HRAvatar: High-Quality and Relightable Gaussian Head Avatar [paper](https://arxiv.org/pdf/2503.08224) [project](https://eastbeanzhang.github.io/HRAvatar/) [code](https://github.com/Pixel-Talk/HRAvatar) ![GitHub Repo stars](https://img.shields.io/github/stars/Pixel-Talk/HRAvatar)    
+
+[2025.03] [ICME2025] Fast and Physically-based Neural Explicit Surface for Relightable Human Avatars [paper](https://arxiv.org/pdf/2503.18408)     
+
+[2025.04] LightHeadEd: Relightable & Editable Head Avatars from a Smartphone [paper](https://arxiv.org/pdf/2504.09671)   
+
+[2025.04] Beyond Reconstruction: A Physics-Based Neural Deferred Shader for Photo-realistic Rendering [paper](https://arxiv.org/pdf/2504.12273) 
+
+[2025.04] DNF-Avatar: Distilling Neural Fields for Real-time Animatable Avatar Relighting [paper](https://arxiv.org/pdf/2504.10486) [project](https://jzr99.github.io/DNF-Avatar/) [code](https://github.com/jzr99/DNF-Avatar) ![GitHub Repo stars](https://img.shields.io/github/stars/jzr99/DNF-Avatar)     
+
+[2025.05] Total-Editing: Head Avatar with Editable Appearance, Motion, and Lighting [paper](https://export.arxiv.org/pdf/2505.20582) 
+
+[2025.05] Generalizable and Relightable Gaussian Splatting for Human Novel View Synthesis [paper](https://arxiv.org/pdf/2505.21502) [project](https://sypj-98.github.io/grgs/)   
+
+[2025.06] BecomingLit: Relightable Gaussian Avatars with Hybrid Neural Shading [paper](https://arxiv.org/pdf/2506.06271) [project](https://jonathsch.github.io/becominglit/)     
+
+[2025.07] [SIGGRAPH2025] GSHeadRelight: Fast Relightability for 3D Gaussian Head Synthesis [paper](https://orca.cardiff.ac.uk/id/eprint/178123/1/paper.pdf)  
+
+### 3D (Inverse Rendering)
 
 [2022.04] [CVPR2022] (InvRender) Modeling Indirect Illumination for Inverse Rendering [paper](https://arxiv.org/pdf/2204.06837) [code](https://github.com/zju3dv/InvRender) [project](https://zju3dv.github.io/invrender/) ![GitHub Repo stars](https://img.shields.io/github/stars/zju3dv/InvRender) 
 
@@ -189,57 +241,54 @@ Hope you can help with the following:
 
 [2023.04] [CVPR2023] TensoIR: Tensorial Inverse Rendering [paper](https://arxiv.org/pdf/2304.12461) [project](https://haian-jin.github.io/TensoIR/) [code](https://github.com/Haian-Jin/TensoIR)  ![GitHub Repo stars](https://img.shields.io/github/stars/Haian-Jin/TensoIR)    
 
-[2023.05] [TOG2023] NeRFFaceLighting: Implicit and Disentangled Face Lighting Representation Leveraging Generative Prior in Neural Radiance Fields [paper](https://dl.acm.org/doi/pdf/10.1145/3597300) [project](http://www.geometrylearning.com/NeRFFaceLighting/) [code](https://github.com/IGLICT/NeRFFaceLighting) ![GitHub Repo stars](https://img.shields.io/github/stars/IGLICT/NeRFFaceLighting)    
- 
-[2023.08] [CVPR2024] Relightable and Animatable Neural Avatar from Sparse-View Video [paper](https://arxiv.org/pdf/2308.07903) [project](https://zju3dv.github.io/relightable_avatar) [code](https://github.com/zju3dv/RelightableAvatar) ![GitHub Repo stars](https://img.shields.io/github/stars/zju3dv/RelightableAvatar)    
+[2023.11] [CVPR2024] GS-IR: 3D Gaussian Splatting for Inverse Rendering [paper](https://arxiv.org/pdf/2311.16473) [project](https://lzhnb.github.io/project-pages/gs-ir.html) [code](https://github.com/lzhnb/GS-IR) ![GitHub Repo stars](https://img.shields.io/github/stars/lzhnb/GS-IR)  
+
+[2023.11] [ECCV2024] Relightable 3D Gaussian: Real-time Point Cloud Relighting with BRDF Decomposition and Ray Tracing [paper](https://arxiv.org/pdf/2311.16043) [project](https://nju-3dv.github.io/projects/Relightable3DGaussian/) [code](https://github.com/NJU-3DV/Relightable3DGaussian) ![GitHub Repo stars](https://img.shields.io/github/stars/NJU-3DV/Relightable3DGaussian)         
+
+[2024.10] [ICLR2025] GI-GS: Global Illumination Decomposition on Gaussian Splatting for Inverse Rendering  [paper](https://arxiv.org/pdf/2410.02619) [code](https://github.com/stopaimme/GI-GS) ![GitHub Repo stars](https://img.shields.io/github/stars/stopaimme/GI-GS)   
+
+[2024.11] [CVPR2025] NeISF++: Neural Incident Stokes Field for Polarized Inverse Rendering of Conductors and Dielectrics [paper](https://arxiv.org/pdf/2411.10189)  [project](https://sony.github.io/NeISF/) [code](https://github.com/sony/NeISF)  ![GitHub Repo stars](https://img.shields.io/github/stars/sony/NeISF)    
+
+[2024.11] [CVPR2025] Differentiable Inverse Rendering with Interpretable Basis BRDFs [paper](https://arxiv.org/pdf/2411.17994)  [project](https://hg-chung.github.io/Interpretable-Inverse-Rendering/) [code](https://github.com/hg-chung/Interpretable-Inverse-Rendering) ![GitHub Repo stars](https://img.shields.io/github/stars/hg-chung/Interpretable-Inverse-Rendering)    
+
+[2024.12] MCMat: Multiview-Consistent and Physically Accurate PBR Material Generation [paper](https://arxiv.org/pdf/2412.14148) [project](https://lingtengqiu.github.io/2024/MCMat/) [code](https://github.com/aigc3d/MCMat) ![GitHub Repo stars](https://img.shields.io/github/stars/aigc3d/MCMat)   
+
+[2024.12] IDArb: Intrinsic Decomposition for Arbitrary Number of Input Views and Illuminations [paper](https://arxiv.org/pdf/2412.12083) [project](https://lizb6626.github.io/IDArb/) [code](https://github.com/Lizb6626/IDArb) ![GitHub Repo stars](https://img.shields.io/github/stars/Lizb6626/IDArb)   
+
+[2025.04] SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering [paper](https://arxiv.org/pdf/2504.06815)   
+
+[2025.04] [CVPR2025] LIRM: Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields [paper](https://arxiv.org/pdf/2504.20026) [project](https://lzqsd.github.io/LIRM.github.io/)       
+
+[2025.06] [CVPR2025] Neural Inverse Rendering from Propagating Light [paper](https://arxiv.org/pdf/2506.05347) [project](https://anaghmalik.com/InvProp/) 
+
+[2025.06] Light of Normals: Unified Feature Representation for Universal Photometric Stereo [paper](https://arxiv.org/pdf/2506.18882) [project](https://houyuanchen111.github.io/lino.github.io/) [code](https://github.com/houyuanchen111/LINO_UniPS) ![GitHub Repo stars](https://img.shields.io/github/stars/houyuanchen111/LINO_UniPS)
+
+[2025.06] [ICCV2025] HiNeuS: High-fidelity Neural Surface Mitigating Low-texture and Reflective Ambiguity [paper](https://arxiv.org/pdf/2506.23854)  
+
+[2025.07] [SIGGRAPH2025] Practical Inverse Rendering of Textured and Translucent Appearance [paper](https://weiphil.s3.eu-central-1.amazonaws.com/practical_reconstruction.pdf) [project](https://dvicini.github.io/practical-inverse-rendering/)   
+
+
+### 3D (Others)
 
 [2023.11] [ECCV2024] The Sky's the Limit: Re-lightable Outdoor Scenes via a Sky-pixel Constrained Illumination Prior and Outside-In Visibility  [paper](https://arxiv.org/pdf/2311.16937) 
 
-[2023.11] [CVPR2024] GS-IR: 3D Gaussian Splatting for Inverse Rendering [paper](https://arxiv.org/pdf/2311.16473) [project](https://lzhnb.github.io/project-pages/gs-ir.html) [code](https://github.com/lzhnb/GS-IR) ![GitHub Repo stars](https://img.shields.io/github/stars/lzhnb/GS-IR)  
+[2023.12] [TOG2024] RNA: Relightable Neural Assets [paper](https://arxiv.org/pdf/2312.09398)  
 
-[2023.11] [ECCV2024] Relightable 3D Gaussian: Real-time Point Cloud Relighting with BRDF Decomposition and Ray Tracing [paper](https://arxiv.org/pdf/2311.16043) [project](https://nju-3dv.github.io/projects/Relightable3DGaussian/) [code](https://github.com/NJU-3DV/Relightable3DGaussian) ![GitHub Repo stars](https://img.shields.io/github/stars/NJU-3DV/Relightable3DGaussian)  
-
-[2023.12] [AAAI2024] Relightable and Animatable Neural Avatars from Videos [paper](https://arxiv.org/pdf/2312.12877) [project](https://wenbin-lin.github.io/RelightableAvatar-page/) [code](https://github.com/wenbin-lin/RelightableAvatar) ![GitHub Repo stars](https://img.shields.io/github/stars/wenbin-lin/RelightableAvatar)    
-
-[2023.12] [ECCV2024] Relightable Neural Actor with Intrinsic Decomposition and Pose Control [paper](https://arxiv.org/pdf/2312.11587) [project](https://vcai.mpi-inf.mpg.de/projects/RNA/) [code](https://github.com/dluvizon/relightable-neural-actor) ![GitHub Repo stars](https://img.shields.io/github/stars/dluvizon/relightable-neural-actor)     
-
-[2024.02] [ECCV2024] FlashTex: Fast Relightable Mesh Texturing with LightControlNet [paper](https://arxiv.org/pdf/2402.13251) [project](https://flashtex.github.io/) [code](https://github.com/Roblox/FlashTex) ![GitHub Repo stars](https://img.shields.io/github/stars/Roblox/FlashTex)        
-
-[2024.03] [CVPR2024] Holo-Relighting: Controllable Volumetric Portrait Relighting from a Single Image [paper](https://arxiv.org/pdf/2403.09632)     
-
-[2024.05] [CVPR2024] Real-time 3D-aware Portrait Video Relighting  [paper](https://arxiv.org/pdf/2410.18355)   [code](https://github.com/GhostCai/PortraitRelighting)  ![GitHub Repo stars](https://img.shields.io/github/stars/GhostCai/PortraitRelighting)       
+[2024.02] [ECCV2024] FlashTex: Fast Relightable Mesh Texturing with LightControlNet [paper](https://arxiv.org/pdf/2402.13251) [project](https://flashtex.github.io/) [code](https://github.com/Roblox/FlashTex) ![GitHub Repo stars](https://img.shields.io/github/stars/Roblox/FlashTex)              
 
 [2024.06] [NeurIPS2024] Neural Gaffer: Relighting Any Object via Diffusion [paper](https://arxiv.org/pdf/2406.07520)  [code](https://github.com/Haian-Jin/Neural_Gaffer)  ![GitHub Repo stars](https://img.shields.io/github/stars/Haian-Jin/Neural_Gaffer)      
 
 [2024.06] [NeurIPS2024] IllumiNeRF: 3D Relighting Without Inverse Rendering [paper](https://arxiv.org/pdf/2406.06527)  [project](https://illuminerf.github.io/) [code](https://github.com/illuminerf/illuminerf_results) ![GitHub Repo stars](https://img.shields.io/github/stars/illuminerf/illuminerf_results)       
 
-[2024.07] [SIGGRAPH2024] Lite2Relight: 3D-aware Single Image Portrait Relighting [paper](https://arxiv.org/pdf/2407.10487)   
-
 [2024.09] [CGF2024] A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis [paper](https://arxiv.org/pdf/2409.08947)   [code](https://github.com/graphdeco-inria/gaussian-splatting-relighting) ![GitHub Repo stars](https://img.shields.io/github/stars/graphdeco-inria/gaussian-splatting-relighting)       
 
 [2024.09] [CVPR2025] RNG: Relightable Neural Gaussians [paper](https://arxiv.org/pdf/2409.19702) [project](https://whois-jiahui.fun/project_pages/RNG/index.html) [code](https://github.com/sssssy/RNG_release) ![GitHub Repo stars](https://img.shields.io/github/stars/sssssy/RNG_release) 
 
-[2024.09] [3DV2025] RISE-SDF: a Relightable Information-Shared Signed Distance Field for Glossy Object Inverse Rendering [paper](https://arxiv.org/pdf/2409.20140) [project](https://dehezhang2.github.io/RISE-SDF/) [code](https://github.com/dehezhang2/RISE-SDF) ![GitHub Repo stars](https://img.shields.io/github/stars/dehezhang2/RISE-SDF)   
+[2024.10] [ICLR2025] RelitLRM: Generative Relightable Radiance for Large Reconstruction Models  [paper](https://arxiv.org/pdf/2410.06231) [project](https://relit-lrm.github.io/)    
 
-[2024.09] Instant Facial Gaussians Translator for Relightable and Interactable Facial Rendering [paper](https://arxiv.org/pdf/2409.07441) [project](https://dafei-qin.github.io/TransGS.github.io/)     
-
-[2024.10] [ICLR2025] GI-GS: Global Illumination Decomposition on Gaussian Splatting for Inverse Rendering  [paper](https://arxiv.org/pdf/2410.02619) [code](https://github.com/stopaimme/GI-GS) ![GitHub Repo stars](https://img.shields.io/github/stars/stopaimme/GI-GS)   
-
-[2024.10] [ICLR2025] RelitLRM: Generative Relightable Radiance for Large Reconstruction Models   [paper](https://arxiv.org/pdf/2410.06231) [project](https://relit-lrm.github.io/)    
-
-[2024.10] [SIGGRAPH Asia 2024] GS^3: Efficient Relighting with Triple Gaussian Splatting  [paper](https://arxiv.org/pdf/2410.11419) [project](https://gsrelight.github.io/) [code](https://github.com/gsrelight/gs-relight)  ![GitHub Repo stars](https://img.shields.io/github/stars/gsrelight/gs-relight)   
-
-[2024.10] [SIGGRAPH Asia 2024] DifFRelight: Diffusion-Based Facial Performance Relighting [paper](https://arxiv.org/pdf/2410.08188)  
-
-[2024.10] [SIGGRAPH Asia 2024] URAvatar: Universal Relightable Gaussian Codec Avatars [paper](https://arxiv.org/pdf/2410.24223) [project](https://junxuan-li.github.io/urgca-website/)    
-
-[2024.10] Noise Crystallization and Liquid Noise: Zero-shot Video Generation using Image Diffusion Models [paper](https://arxiv.org/pdf/2410.05322) [code](https://github.com/Strikewind/LiquidNoise) ![GitHub Repo stars](https://img.shields.io/github/stars/Strikewind/LiquidNoise)    
+[2024.10] [SIGGRAPH Asia 2024] GS^3: Efficient Relighting with Triple Gaussian Splatting  [paper](https://arxiv.org/pdf/2410.11419) [project](https://gsrelight.github.io/) [code](https://github.com/gsrelight/gs-relight)  ![GitHub Repo stars](https://img.shields.io/github/stars/gsrelight/gs-relight)      
 
 [2024.11] [CVPR2025] ARM: Appearance Reconstruction Model for Relightable 3D Generation [paper](https://arxiv.org/pdf/2412.15211) [project](https://arm-aigc.github.io/) 
-
-[2024.11] [CVPR2025] NeISF++: Neural Incident Stokes Field for Polarized Inverse Rendering of Conductors and Dielectrics [paper](https://arxiv.org/pdf/2411.10189)  [project](https://sony.github.io/NeISF/) [code](https://github.com/sony/NeISF)  ![GitHub Repo stars](https://img.shields.io/github/stars/sony/NeISF)    
-
-[2024.11] [CVPR2025] Differentiable Inverse Rendering with Interpretable Basis BRDFs [paper](https://arxiv.org/pdf/2411.17994)  [project](https://hg-chung.github.io/Interpretable-Inverse-Rendering/) [code](https://github.com/hg-chung/Interpretable-Inverse-Rendering) ![GitHub Repo stars](https://img.shields.io/github/stars/hg-chung/Interpretable-Inverse-Rendering)    
 
 [2024.11] [CVPR2025] UrbanCAD: Towards Highly Controllable and Photorealistic 3D Vehicles for Urban Scene Simulation [paper](https://arxiv.org/pdf/2411.19292) [project](https://xdimlab.github.io/UrbanCAD/)    
 
@@ -255,47 +304,18 @@ Hope you can help with the following:
 
 [2024.12] GraphicsDreamer: Image to 3D Generation with Physical Consistency [paper](https://arxiv.org/pdf/2412.14214)    
 
-[2024.12] MCMat: Multiview-Consistent and Physically Accurate PBR Material Generation [paper](https://arxiv.org/pdf/2412.14148) [project](https://lingtengqiu.github.io/2024/MCMat/) [code](https://github.com/aigc3d/MCMat) ![GitHub Repo stars](https://img.shields.io/github/stars/aigc3d/MCMat)   
-
-[2024.12] IDArb: Intrinsic Decomposition for Arbitrary Number of Input Views and Illuminations [paper](https://arxiv.org/pdf/2412.12083) [project](https://lizb6626.github.io/IDArb/) [code](https://github.com/Lizb6626/IDArb) ![GitHub Repo stars](https://img.shields.io/github/stars/Lizb6626/IDArb)   
- 
-[2025.01] Relightable Full-Body Gaussian Codec Avatars [paper](https://arxiv.org/pdf/2412.05278) [project](https://neuralbodies.github.io/RFGCA/)   
-
-[2025.02] BEAM:Bridging Physically-based Rendering and Gaussian Modeling for Relightable Volumetric Video [paper](https://arxiv.org/pdf/2502.08297)    
-
-[2025.03] [CVPR2025] HRAvatar: High-Quality and Relightable Gaussian Head Avatar [paper](https://arxiv.org/pdf/2503.08224) [project](https://eastbeanzhang.github.io/HRAvatar/) [code](https://github.com/Pixel-Talk/HRAvatar)  ![GitHub Repo stars](https://img.shields.io/github/stars/Pixel-Talk/HRAvatar)    
-
-[2025.03] [ICME2025] Fast and Physically-based Neural Explicit Surface for Relightable Human Avatars [paper](https://arxiv.org/pdf/2503.18408)     
-
 [2025.03] TranSplat: Lighting-Consistent Cross-Scene Object Transfer with 3D Gaussian Splatting [paper](https://arxiv.org/pdf/2503.22676)     
 
-[2025.04] SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering [paper](https://arxiv.org/pdf/2504.06815)   
+[2025.04] RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects [paper](https://arxiv.org/pdf/2504.18468)   
 
-[2025.04] LightHeadEd: Relightable & Editable Head Avatars from a Smartphone [paper](https://arxiv.org/pdf/2504.09671)   
+[2025.05] Generalizable and Relightable Gaussian Splatting for Human Novel View Synthesis [paper](https://arxiv.org/pdf/2505.21502) [project](https://sypj-98.github.io/grgs/)   
 
-[2025.04] DNF-Avatar: Distilling Neural Fields for Real-time Animatable Avatar Relighting [paper](https://arxiv.org/pdf/2504.10486) [project](https://jzr99.github.io/DNF-Avatar/) [code](https://github.com/jzr99/DNF-Avatar) ![GitHub Repo stars](https://img.shields.io/github/stars/jzr99/DNF-Avatar)    
-
-[2025.04] Beyond Reconstruction: A Physics Based Neural Deferred Shader for Photo-realistic Rendering [paper](https://arxiv.org/pdf/2504.12273) 
-
-[2025.04] RGS-DR:Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects [paper](https://arxiv.org/pdf/2504.18468)   
-
-[2025.04] [CVPR2025] LIRM: Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields [paper](https://arxiv.org/pdf/2504.20026) [project](https://lzqsd.github.io/LIRM.github.io/)      
-
-[2025.05] Total-Editing: Head Avatar with Editable Appearance, Motion, and Lighting [paper](https://export.arxiv.org/pdf/2505.20582) 
-
-[2025.05] Generalizable and Relightable Gaussian Splatting for HumanNovel View Synthesis [paper](https://arxiv.org/pdf/2505.21502) [project](https://sypj-98.github.io/grgs/)   
-
-[2025.06] [CVPR2025] Neural Inverse Rendering from Propagating Light [paper](https://arxiv.org/pdf/2506.05347) [project](https://anaghmalik.com/InvProp/) 
-
-[2025.06] BecomingLit: Relightable Gaussian Avatars with Hybrid Neural Shading [paper](https://arxiv.org/pdf/2506.06271) [project](https://jonathsch.github.io/becominglit/)     
+[2025.05] [SIGGRAPH2025] RenderFormer: Transformer-based Neural Rendering of Triangle Meshes with Global Illumination [paper](https://arxiv.org/pdf/2505.21925) [project](https://microsoft.github.io/renderformer/) [code](https://github.com/microsoft/renderformer) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/renderformer)   
 
 [2025.06] [CVPR2025] GS-2DGS: Geometrically Supervised 2DGS for Reflective Object Reconstruction [paper](https://arxiv.org/pdf/2506.13110) [code](https://github.com/hirotong/GS2DGS) ![GitHub Repo stars](https://img.shields.io/github/stars/hirotong/GS2DGS)   
 
 [2025.06] 2D Triangle Splatting for Direct Differentiable Mesh Training [paper](https://arxiv.org/pdf/2506.18575) 
 
-[2025.06] Light of Normals: Unified Feature Representation for Universal Photometric Stereo [paper](https://arxiv.org/pdf/2506.18882) [project](https://houyuanchen111.github.io/lino.github.io/) [code](https://github.com/houyuanchen111/LINO_UniPS) ![GitHub Repo stars](https://img.shields.io/github/stars/houyuanchen111/LINO_UniPS)
-
-[2025.06] [ICCV2025] HiNeuS: High-fidelity Neural Surface Mitigating Low-texture and Reflective Ambiguity [paper](https://arxiv.org/pdf/2506.23854)  
 
 ### Security
 
@@ -311,6 +331,7 @@ Hope you can help with the following:
 [TMM2022] PR-RL: Portrait Relighting Via Deep Reinforcement Learning [paper](https://ieeexplore.ieee.org/document/9484089)    
 
 ### Autonomous Driving
+
 [2022.04] [CVPR2024] SIMBAR: Single Image-Based Scene Relighting For Effective Data Augmentation For Automated Driving Vision Tasks  [paper](https://arxiv.org/pdf/2204.00644)  
 
 [2025.06] MADrive: Memory-Augmented Driving Scene Modeling [paper](https://arxiv.org/pdf/2506.21520) [project](https://yandex-research.github.io/madrive/)  
@@ -349,6 +370,8 @@ Please refer to [Awesome-InverseRendering](https://github.com/tkuri/Awesome-Inve
 ### HDR Panorama Generation
 [SIGGRAPH Asia 2022] Text2Light: Zero-Shot Text-Driven HDR Panorama Generation  [paper](https://arxiv.org/pdf/2209.09898) [project](https://frozenburning.github.io/projects/text2light/) [code](https://github.com/FrozenBurning/Text2Light)  ![GitHub Repo stars](https://img.shields.io/github/stars/FrozenBurning/Text2Light)  
 
+[SIGGRAPH2025] LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation [paper](https://arxiv.org/pdf/2408.13252) [project](https://ys-imtech.github.io/projects/LayerPano3D/) [code](https://github.com/3DTopia/LayerPano3D)  ![GitHub Repo stars](https://img.shields.io/github/stars/3DTopia/LayerPano3D)  
+
 ### PBR Generation
 [2024.09] [CVPR2025] 3DTopia-XL: High-Quality 3D PBR Asset Generation via Primitive Diffusion [paper](https://arxiv.org/pdf/2409.12957) [project](https://3dtopia.github.io/3DTopia-XL/) [code](https://github.com/3DTopia/3DTopia-XL) ![GitHub Repo stars](https://img.shields.io/github/stars/3DTopia/3DTopia-XL)  
 
@@ -358,13 +381,17 @@ Please refer to [Awesome-InverseRendering](https://github.com/tkuri/Awesome-Inve
 
 Please refer to [Awesome-Illumination-Estimation](https://github.com/waldenlakes/Awesome-Illumination-Estimation) ![GitHub Repo stars](https://img.shields.io/github/stars/waldenlakes/Awesome-Illumination-Estimation)  
 
-[CVPR2024] DiffusionLight: Light Probes for Free by Painting a Chrome Ball [paper](https://arxiv.org/pdf/2312.09168)  [project](https://diffusionlight.github.io/) [code](https://github.com/DiffusionLight/DiffusionLight) ![GitHub Repo stars](https://img.shields.io/github/stars/DiffusionLight/DiffusionLight)  
+[AAAI2021] EMLight: Lighting Estimation via Spherical Distribution Approximation [paper](https://arxiv.org/pdf/2012.11116) & [TIP2022] GMLight: Lighting Estimation via Geometric Distribution Approximation [paper](https://arxiv.org/pdf/2102.10244) [code](https://github.com/fnzhan/EMLight) ![GitHub Repo stars](https://img.shields.io/github/stars/fnzhan/EMLight)  
 
 [ECCV2022] StyleLight: HDR Panorama Generation for Lighting Estimation and Editing [paper](https://arxiv.org/pdf/2207.14811) [project](https://style-light.github.io/) [code](https://github.com/Wanggcong/StyleLight) ![GitHub Repo stars](https://img.shields.io/github/stars/Wanggcong/StyleLight)  
 
-[AAAI2021] EMLight: Lighting Estimation via Spherical Distribution Approximation [paper](https://arxiv.org/pdf/2012.11116) & [TIP2022] GMLight: Lighting Estimation via Geometric Distribution Approximation [paper](https://arxiv.org/pdf/2102.10244) [code](https://github.com/fnzhan/EMLight) ![GitHub Repo stars](https://img.shields.io/github/stars/fnzhan/EMLight)  
+[TOG2023] Spatiotemporally Consistent HDR Indoor Lighting Estimation [paper](https://arxiv.org/pdf/2305.04374)  
 
-.......
+[CVPR2024] DiffusionLight: Light Probes for Free by Painting a Chrome Ball [paper](https://arxiv.org/pdf/2312.09168)  [project](https://diffusionlight.github.io/) [code](https://github.com/DiffusionLight/DiffusionLight) ![GitHub Repo stars](https://img.shields.io/github/stars/DiffusionLight/DiffusionLight)  
+
+[CVPR2024] Towards a Perceptual Evaluation Framework for Lighting Estimation [paper](https://arxiv.org/pdf/2312.04334) [project](https://lvsn.github.io/PerceptionMetric/)    
+
+[SIGGRAPH2025] Spatiotemporally Consistent Indoor Lighting Estimation with Diffusion Priors           
 
 <!-- 
 ## Star history ✨ 
