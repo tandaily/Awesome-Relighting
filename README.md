@@ -131,7 +131,7 @@ Hope you can help with the following:
 
 [2025.01] Materialist: Physically Based Editing Using Single-Image Inverse Rendering [paper](https://arxiv.org/pdf/2501.03717) [code](https://github.com/lez-s/Materialist) ![GitHub Repo stars](https://img.shields.io/github/stars/lez-s/Materialist)   
  
-[2025.03] LBM:Latent Bridge Matching for Fast Image-to-Image Translation [paper](https://arxiv.org/pdf/2503.07535) [demo](https://huggingface.co/spaces/jasperai/LBM_relighting) [project](https://gojasper.github.io/latent-bridge-matching/) [code](https://github.com/gojasper/LBM) ![GitHub Repo stars](https://img.shields.io/github/stars/gojasper/LBM)   
+[2025.03] [ICCV2025] LBM:Latent Bridge Matching for Fast Image-to-Image Translation [paper](https://arxiv.org/pdf/2503.07535) [demo](https://huggingface.co/spaces/jasperai/LBM_relighting) [project](https://gojasper.github.io/latent-bridge-matching/) [code](https://github.com/gojasper/LBM) ![GitHub Repo stars](https://img.shields.io/github/stars/gojasper/LBM)   
 
 [2025.03] [CVPR2025] GroomLight: Hybrid Inverse Rendering for Relightable Human Hair Appearance Modeling [paper](https://arxiv.org/pdf/2503.10597) [project](https://syntec-research.github.io/GroomLight/)   
 
@@ -294,6 +294,8 @@ Hope you can help with the following:
 [2025.06] 2D Triangle Splatting for Direct Differentiable Mesh Training [paper](https://arxiv.org/pdf/2506.18575) 
 
 [2025.06] Light of Normals: Unified Feature Representation for Universal Photometric Stereo [paper](https://arxiv.org/pdf/2506.18882) [project](https://houyuanchen111.github.io/lino.github.io/) [code](https://github.com/houyuanchen111/LINO_UniPS) ![GitHub Repo stars](https://img.shields.io/github/stars/houyuanchen111/LINO_UniPS)
+
+[2025.06] [ICCV2025] HiNeuS: High-fidelity Neural Surface Mitigating Low-texture and Reflective Ambiguity [paper](https://arxiv.org/pdf/2506.23854)  
 
 ### Security
 
