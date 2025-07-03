@@ -391,7 +391,11 @@ Please refer to [Awesome-Illumination-Estimation](https://github.com/waldenlakes
 
 [CVPR2024] Towards a Perceptual Evaluation Framework for Lighting Estimation [paper](https://arxiv.org/pdf/2312.04334) [project](https://lvsn.github.io/PerceptionMetric/)    
 
-[SIGGRAPH2025] Spatiotemporally Consistent Indoor Lighting Estimation with Diffusion Priors           
+[SIGGRAPH2025] Spatiotemporally Consistent Indoor Lighting Estimation with Diffusion Priors    
+
+[TVCG2025] IllumiDiff: Indoor Illumination Estimation from a Single Image with Diffusion Model [paper](https://graphvision.whu.edu.cn/paper/2025/ShenShiYuan_TVCG_2025.pdf) [code](https://github.com/nauyihsnehs/IllumiDiff) ![GitHub Repo stars](https://img.shields.io/github/stars/nauyihsnehs/IllumiDiff) 
+
+DiffusionLight-Turbo: Accelerated Light Probes for Free via Single-Pass Chrome Ball Inpainting [paper](https://arxiv.org/pdf/2507.01305) [code](https://github.com/DiffusionLight/DiffusionLight-Turbo) [project](https://diffusionlight.github.io/turbo/) ![GitHub Repo stars](https://img.shields.io/github/stars/DiffusionLight/DiffusionLight-Turbo)   
 
 <!-- 
 ## Star history ✨ 
