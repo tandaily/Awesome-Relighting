@@ -349,8 +349,16 @@ Hope you can help with the following:
 ### DPR Dataset
 <!--人脸数据集，利用CelebA-HQ的30000张人脸5种光照合成138,135张图像  
 提供数据集制作脚本   -->
-## Metrics
-ICCV2025 UniLight Workshop [link](https://unilight-workshop.github.io/unilight2025/#)     
+
+## Workshop
+
+[ECCV2020] AIM 2020 [Any to one relighting](https://competitions.codalab.org/competitions/24671) [Illumination Settings estimation](https://competitions.codalab.org/competitions/24773) [Any to any relighting](https://competitions.codalab.org/competitions/24674)    
+
+[CVPR2021] NTIRE 2021 Depth Guided Image Relighting [One-to-One relighting](https://competitions.codalab.org/competitions/28030) [Any-to-Any relighting](https://competitions.codalab.org/competitions/28031)   
+
+[CVPR2025] NTIRE 2025  [Video Quality Enhancement for Video Conferencing](https://codalab.lisn.upsaclay.fr/competitions/21291)    
+
+[ICCV2025] UniLight Workshop [link](https://unilight-workshop.github.io/unilight2025/#)     
 
 ## Software Products
 Flux Kontext Relight [https://huggingface.co/spaces/kontext-community/kontext-relight](https://huggingface.co/spaces/kontext-community/kontext-relight)  
