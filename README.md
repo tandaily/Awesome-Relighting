@@ -353,6 +353,7 @@ Hope you can help with the following:
 ICCV2025 UniLight Workshop [link](https://unilight-workshop.github.io/unilight2025/#)     
 
 ## Software Products
+Flux Kontext Relight [https://huggingface.co/spaces/kontext-community/kontext-relight](https://huggingface.co/spaces/kontext-community/kontext-relight)  
 SwitchLight: [https://www.switchlight.beeble.ai/](https://www.switchlight.beeble.ai/)   
 Switchlight 2.0: [https://app.beeble.ai/home](https://app.beeble.ai/home) [report](https://beeble.ai/research/switchlight-2-0-is-here)         
 IC-Light: https://github.com/lllyasviel/IC-Light [https://huggingface.co/spaces/lllyasviel/IC-Light](https://huggingface.co/spaces/lllyasviel/IC-Light)  [https://huggingface.co/spaces/lllyasviel/iclight-v2-vary](https://huggingface.co/spaces/lllyasviel/iclight-v2-vary)        
