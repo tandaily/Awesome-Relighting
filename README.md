@@ -231,7 +231,7 @@ Hope you can help with the following:
 
 [2025.07] [SIGGRAPH2025] GSHeadRelight: Fast Relightability for 3D Gaussian Head Synthesis [paper](https://orca.cardiff.ac.uk/id/eprint/178123/1/paper.pdf)  
 
-### 3D (Inverse Rendering)
+### 3D (Others)
 
 [2022.04] [CVPR2022] (InvRender) Modeling Indirect Illumination for Inverse Rendering [paper](https://arxiv.org/pdf/2204.06837) [code](https://github.com/zju3dv/InvRender) [project](https://zju3dv.github.io/invrender/) ![GitHub Repo stars](https://img.shields.io/github/stars/zju3dv/InvRender) 
 
@@ -245,36 +245,11 @@ Hope you can help with the following:
 
 [2023.11] [ECCV2024] Relightable 3D Gaussian: Real-time Point Cloud Relighting with BRDF Decomposition and Ray Tracing [paper](https://arxiv.org/pdf/2311.16043) [project](https://nju-3dv.github.io/projects/Relightable3DGaussian/) [code](https://github.com/NJU-3DV/Relightable3DGaussian) ![GitHub Repo stars](https://img.shields.io/github/stars/NJU-3DV/Relightable3DGaussian)         
 
-[2024.10] [ICLR2025] GI-GS: Global Illumination Decomposition on Gaussian Splatting for Inverse Rendering  [paper](https://arxiv.org/pdf/2410.02619) [code](https://github.com/stopaimme/GI-GS) ![GitHub Repo stars](https://img.shields.io/github/stars/stopaimme/GI-GS)   
-
-[2024.11] [CVPR2025] NeISF++: Neural Incident Stokes Field for Polarized Inverse Rendering of Conductors and Dielectrics [paper](https://arxiv.org/pdf/2411.10189)  [project](https://sony.github.io/NeISF/) [code](https://github.com/sony/NeISF)  ![GitHub Repo stars](https://img.shields.io/github/stars/sony/NeISF)    
-
-[2024.11] [CVPR2025] Differentiable Inverse Rendering with Interpretable Basis BRDFs [paper](https://arxiv.org/pdf/2411.17994)  [project](https://hg-chung.github.io/Interpretable-Inverse-Rendering/) [code](https://github.com/hg-chung/Interpretable-Inverse-Rendering) ![GitHub Repo stars](https://img.shields.io/github/stars/hg-chung/Interpretable-Inverse-Rendering)    
-
-[2024.12] MCMat: Multiview-Consistent and Physically Accurate PBR Material Generation [paper](https://arxiv.org/pdf/2412.14148) [project](https://lingtengqiu.github.io/2024/MCMat/) [code](https://github.com/aigc3d/MCMat) ![GitHub Repo stars](https://img.shields.io/github/stars/aigc3d/MCMat)   
-
-[2024.12] IDArb: Intrinsic Decomposition for Arbitrary Number of Input Views and Illuminations [paper](https://arxiv.org/pdf/2412.12083) [project](https://lizb6626.github.io/IDArb/) [code](https://github.com/Lizb6626/IDArb) ![GitHub Repo stars](https://img.shields.io/github/stars/Lizb6626/IDArb)   
-
-[2025.04] SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering [paper](https://arxiv.org/pdf/2504.06815)   
-
-[2025.04] [CVPR2025] LIRM: Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields [paper](https://arxiv.org/pdf/2504.20026) [project](https://lzqsd.github.io/LIRM.github.io/)       
-
-[2025.06] [CVPR2025] Neural Inverse Rendering from Propagating Light [paper](https://arxiv.org/pdf/2506.05347) [project](https://anaghmalik.com/InvProp/) 
-
-[2025.06] Light of Normals: Unified Feature Representation for Universal Photometric Stereo [paper](https://arxiv.org/pdf/2506.18882) [project](https://houyuanchen111.github.io/lino.github.io/) [code](https://github.com/houyuanchen111/LINO_UniPS) ![GitHub Repo stars](https://img.shields.io/github/stars/houyuanchen111/LINO_UniPS)
-
-[2025.06] [ICCV2025] HiNeuS: High-fidelity Neural Surface Mitigating Low-texture and Reflective Ambiguity [paper](https://arxiv.org/pdf/2506.23854)  
-
-[2025.07] [SIGGRAPH2025] Practical Inverse Rendering of Textured and Translucent Appearance [paper](https://weiphil.s3.eu-central-1.amazonaws.com/practical_reconstruction.pdf) [project](https://dvicini.github.io/practical-inverse-rendering/)   
-
-
-### 3D (Others)
-
 [2023.11] [ECCV2024] The Sky's the Limit: Re-lightable Outdoor Scenes via a Sky-pixel Constrained Illumination Prior and Outside-In Visibility  [paper](https://arxiv.org/pdf/2311.16937) 
 
 [2023.12] [TOG2024] RNA: Relightable Neural Assets [paper](https://arxiv.org/pdf/2312.09398)  
 
-[2024.02] [ECCV2024] FlashTex: Fast Relightable Mesh Texturing with LightControlNet [paper](https://arxiv.org/pdf/2402.13251) [project](https://flashtex.github.io/) [code](https://github.com/Roblox/FlashTex) ![GitHub Repo stars](https://img.shields.io/github/stars/Roblox/FlashTex)              
+[2024.02] [ECCV2024] FlashTex: Fast Relightable Mesh Texturing with LightControlNet [paper](https://arxiv.org/pdf/2402.13251) [project](https://flashtex.github.io/) [code](https://github.com/Roblox/FlashTex) ![GitHub Repo stars](https://img.shields.io/github/stars/Roblox/FlashTex)  
 
 [2024.06] [NeurIPS2024] Neural Gaffer: Relighting Any Object via Diffusion [paper](https://arxiv.org/pdf/2406.07520)  [code](https://github.com/Haian-Jin/Neural_Gaffer)  ![GitHub Repo stars](https://img.shields.io/github/stars/Haian-Jin/Neural_Gaffer)      
 
@@ -284,6 +259,8 @@ Hope you can help with the following:
 
 [2024.09] [CVPR2025] RNG: Relightable Neural Gaussians [paper](https://arxiv.org/pdf/2409.19702) [project](https://whois-jiahui.fun/project_pages/RNG/index.html) [code](https://github.com/sssssy/RNG_release) ![GitHub Repo stars](https://img.shields.io/github/stars/sssssy/RNG_release) 
 
+[2024.10] [ICLR2025] GI-GS: Global Illumination Decomposition on Gaussian Splatting for Inverse Rendering  [paper](https://arxiv.org/pdf/2410.02619) [code](https://github.com/stopaimme/GI-GS) ![GitHub Repo stars](https://img.shields.io/github/stars/stopaimme/GI-GS)   
+
 [2024.10] [ICLR2025] RelitLRM: Generative Relightable Radiance for Large Reconstruction Models  [paper](https://arxiv.org/pdf/2410.06231) [project](https://relit-lrm.github.io/)    
 
 [2024.10] [SIGGRAPH Asia 2024] GS^3: Efficient Relighting with Triple Gaussian Splatting  [paper](https://arxiv.org/pdf/2410.11419) [project](https://gsrelight.github.io/) [code](https://github.com/gsrelight/gs-relight)  ![GitHub Repo stars](https://img.shields.io/github/stars/gsrelight/gs-relight)      
@@ -291,6 +268,14 @@ Hope you can help with the following:
 [2024.11] [CVPR2025] ARM: Appearance Reconstruction Model for Relightable 3D Generation [paper](https://arxiv.org/pdf/2412.15211) [project](https://arm-aigc.github.io/) 
 
 [2024.11] [CVPR2025] UrbanCAD: Towards Highly Controllable and Photorealistic 3D Vehicles for Urban Scene Simulation [paper](https://arxiv.org/pdf/2411.19292) [project](https://xdimlab.github.io/UrbanCAD/)    
+
+[2024.11] [CVPR2025] NeISF++: Neural Incident Stokes Field for Polarized Inverse Rendering of Conductors and Dielectrics [paper](https://arxiv.org/pdf/2411.10189)  [project](https://sony.github.io/NeISF/) [code](https://github.com/sony/NeISF)  ![GitHub Repo stars](https://img.shields.io/github/stars/sony/NeISF)    
+
+[2024.11] [CVPR2025] Differentiable Inverse Rendering with Interpretable Basis BRDFs [paper](https://arxiv.org/pdf/2411.17994)  [project](https://hg-chung.github.io/Interpretable-Inverse-Rendering/) [code](https://github.com/hg-chung/Interpretable-Inverse-Rendering) ![GitHub Repo stars](https://img.shields.io/github/stars/hg-chung/Interpretable-Inverse-Rendering)    
+
+[2024.12] MCMat: Multiview-Consistent and Physically Accurate PBR Material Generation [paper](https://arxiv.org/pdf/2412.14148) [project](https://lingtengqiu.github.io/2024/MCMat/) [code](https://github.com/aigc3d/MCMat) ![GitHub Repo stars](https://img.shields.io/github/stars/aigc3d/MCMat)   
+
+[2024.12] IDArb: Intrinsic Decomposition for Arbitrary Number of Input Views and Illuminations [paper](https://arxiv.org/pdf/2412.12083) [project](https://lizb6626.github.io/IDArb/) [code](https://github.com/Lizb6626/IDArb) ![GitHub Repo stars](https://img.shields.io/github/stars/Lizb6626/IDArb)   
 
 [2024.12] [CVPR2025] ReCap: Better Gaussian Relighting with Cross-Environment Captures [paper](https://arxiv.org/pdf/2412.07534) [project](https://jingzhi.github.io/ReCap/) [code](https://github.com/jingzhi/ReCap) ![GitHub Repo stars](https://img.shields.io/github/stars/jingzhi/ReCap)   
 
@@ -308,6 +293,10 @@ Hope you can help with the following:
 
 [2025.04] RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects [paper](https://arxiv.org/pdf/2504.18468)   
 
+[2025.04] SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering [paper](https://arxiv.org/pdf/2504.06815)   
+
+[2025.04] [CVPR2025] LIRM: Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields [paper](https://arxiv.org/pdf/2504.20026) [project](https://lzqsd.github.io/LIRM.github.io/)       
+
 [2025.05] Generalizable and Relightable Gaussian Splatting for Human Novel View Synthesis [paper](https://arxiv.org/pdf/2505.21502) [project](https://sypj-98.github.io/grgs/)   
 
 [2025.05] [SIGGRAPH2025] RenderFormer: Transformer-based Neural Rendering of Triangle Meshes with Global Illumination [paper](https://arxiv.org/pdf/2505.21925) [project](https://microsoft.github.io/renderformer/) [code](https://github.com/microsoft/renderformer) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/renderformer)   
@@ -316,6 +305,15 @@ Hope you can help with the following:
 
 [2025.06] 2D Triangle Splatting for Direct Differentiable Mesh Training [paper](https://arxiv.org/pdf/2506.18575) 
 
+[2025.06] [CVPR2025] Neural Inverse Rendering from Propagating Light [paper](https://arxiv.org/pdf/2506.05347) [project](https://anaghmalik.com/InvProp/) 
+
+[2025.06] Light of Normals: Unified Feature Representation for Universal Photometric Stereo [paper](https://arxiv.org/pdf/2506.18882) [project](https://houyuanchen111.github.io/lino.github.io/) [code](https://github.com/houyuanchen111/LINO_UniPS) ![GitHub Repo stars](https://img.shields.io/github/stars/houyuanchen111/LINO_UniPS)
+
+[2025.06] [ICCV2025] HiNeuS: High-fidelity Neural Surface Mitigating Low-texture and Reflective Ambiguity [paper](https://arxiv.org/pdf/2506.23854)  
+
+[2025.07] [SIGGRAPH2025] Practical Inverse Rendering of Textured and Translucent Appearance [paper](https://weiphil.s3.eu-central-1.amazonaws.com/practical_reconstruction.pdf) [project](https://dvicini.github.io/practical-inverse-rendering/)               
+
+[2025.07] MatDecompSDF: High-Fidelity 3D Shape and PBR Material Decomposition from Multi-View Images [paper](https://arxiv.org/pdf/2507.04749)  
 
 ### Security
 
