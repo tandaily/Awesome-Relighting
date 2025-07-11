@@ -315,6 +315,8 @@ Hope you can help with the following:
 
 [2025.07] MatDecompSDF: High-Fidelity 3D Shape and PBR Material Decomposition from Multi-View Images [paper](https://arxiv.org/pdf/2507.04749)  
 
+[2025.07] RTR-GS: 3D Gaussian Splatting for Inverse Rendering with Radiance Transfer and Reflection [paper](https://arxiv.org/pdf/2507.07733) 
+
 ### Security
 
 [2021.08] [TIFS2024]  Adversarial Relighting Against Face Recognition [paper](https://arxiv.org/pdf/2108.07920)        
