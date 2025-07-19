@@ -183,7 +183,7 @@ Hope you can help with the following:
 
 [2025.06] TC-Light: Temporally Consistent Relighting for Dynamic Long Videos [paper](https://arxiv.org/pdf/2506.18904) [project](https://dekuliutesla.github.io/tclight/) [code](https://github.com/Linketic/TC-Light) ![GitHub Repo stars](https://img.shields.io/github/stars/Linketic/TC-Light)
 
-### 3D (Face/Avatar)
+### 3D (Face/Avatar/Human)
 
 [2023.05] [TOG2023] NeRFFaceLighting: Implicit and Disentangled Face Lighting Representation Leveraging Generative Prior in Neural Radiance Fields [paper](https://dl.acm.org/doi/pdf/10.1145/3597300) [project](http://www.geometrylearning.com/NeRFFaceLighting/) [code](https://github.com/IGLICT/NeRFFaceLighting) ![GitHub Repo stars](https://img.shields.io/github/stars/IGLICT/NeRFFaceLighting)    
  
@@ -230,6 +230,8 @@ Hope you can help with the following:
 [2025.06] BecomingLit: Relightable Gaussian Avatars with Hybrid Neural Shading [paper](https://arxiv.org/pdf/2506.06271) [project](https://jonathsch.github.io/becominglit/)     
 
 [2025.07] [SIGGRAPH2025] GSHeadRelight: Fast Relightability for 3D Gaussian Head Synthesis [paper](https://orca.cardiff.ac.uk/id/eprint/178123/1/paper.pdf)  
+
+[ICCV2025] HumanOLAT: A Large-Scale Dataset for Full-Body Human Relighting and Novel-View Synthesis
 
 ### 3D (Others)
 
@@ -316,6 +318,14 @@ Hope you can help with the following:
 [2025.07] MatDecompSDF: High-Fidelity 3D Shape and PBR Material Decomposition from Multi-View Images [paper](https://arxiv.org/pdf/2507.04749)  
 
 [2025.07] RTR-GS: 3D Gaussian Splatting for Inverse Rendering with Radiance Transfer and Reflection [paper](https://arxiv.org/pdf/2507.07733) 
+
+[ICCV2025] LightSwitch: Multi-view Relighting with Material-guided Diffusion  
+
+[ICCV2025] SU-RGS: Relightable 3D Gaussian Splatting from Sparse Views under Unconstrained Illuminations  
+
+[ICCV2025] GaRe: Relightable 3D Gaussian Splatting for Outdoor Scenes from Unconstrained Photo Collections  
+
+[ICCV2025] Gaussian Splatting with Discretized SDF for Relightable Assets  
 
 ### Security
 
