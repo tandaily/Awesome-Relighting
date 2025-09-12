@@ -152,7 +152,13 @@ Hope you can help with the following:
 [2025.06] DreamLight: Towards Harmonious and Consistent Image Relighting [paper](https://arxiv.org/pdf/2506.14549) [code](https://github.com/yongliu20/DreamLight) ![GitHub Repo stars](https://img.shields.io/github/stars/yongliu20/DreamLight)       
 
 [2025.07] [SIGGRAPH2025] Physically Controllable Relighting of Photographs [paper](https://yaksoy.github.io/papers/SIG25-PhysicalRelighting.pdf) [project](https://yaksoy.github.io/PhysicalRelighting/)     
- 
+
+[2025.08] Hybrelighter: Combining Deep Anisotropic Diffusion and Scene Reconstruction for On-device Real-time Relighting in Mixed Reality [paper](https://arxiv.org/pdf/2508.14930)
+
+[2025.08] TransLight: Image-Guided Customized Lighting Control with Generative Decoupling [paper](https://arxiv.org/pdf/2508.14814)
+
+[2025.09] PractiLight: Practical Light Control Using Foundational Diffusion Models [paper](https://arxiv.org/pdf/2509.01837)
+
 
 ### Video
 [2021.04] [ICCV2021] Neural Video Portrait Relighting in Real-time via Consistency Modeling [paper](https://arxiv.org/pdf/2104.00484) [project](https://zhanglongwen.com/projects/nvpr/) [code](https://github.com/ZoneLikeWonderland/Neural-Video-Portrait-Relighting-in-Real-time-via-Consistency-Modeling) ![GitHub Repo stars](https://img.shields.io/github/stars/ZoneLikeWonderland/Neural-Video-Portrait-Relighting-in-Real-time-via-Consistency-Modeling)       
@@ -182,6 +188,8 @@ Hope you can help with the following:
 [2025.06] UniRelight: Learning Joint Decomposition and Synthesis for Video Relighting [paper](https://arxiv.org/pdf/2506.15673) [project](https://research.nvidia.com/labs/toronto-ai/UniRelight/)  
 
 [2025.06] TC-Light: Temporally Consistent Relighting for Dynamic Long Videos [paper](https://arxiv.org/pdf/2506.18904) [project](https://dekuliutesla.github.io/tclight/) [code](https://github.com/Linketic/TC-Light) ![GitHub Repo stars](https://img.shields.io/github/stars/Linketic/TC-Light)
+
+[2025.08] Lumen: Consistent Video Relighting and Harmonious Background Replacement with Video Generative Models [paper](https://arxiv.org/pdf/2508.12945)
 
 ### 3D (Face/Avatar/Human)
 
