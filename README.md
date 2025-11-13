@@ -211,6 +211,8 @@ Hope you can help with the following:
 
 [2024.06] [NeurIPS2024] IllumiNeRF: 3D Relighting Without Inverse Rendering [paper](https://arxiv.org/pdf/2406.06527)  [project](https://illuminerf.github.io/) [code](https://github.com/illuminerf/illuminerf_results) ![GitHub Repo stars](https://img.shields.io/github/stars/illuminerf/illuminerf_results)       
 
+[2024.07] [EGSR2024] Learning Self-Shadowing for Clothed Human Bodies [paper](https://diglib.eg.org/handle/10.2312/sr20241159) [code](https://gitlab.surrey.ac.uk/fe00135/self-shadowing)
+
 [2024.07] [SIGGRAPH2024] Lite2Relight: 3D-aware Single Image Portrait Relighting [paper](https://arxiv.org/pdf/2407.10487)         
 
 [2024.09] Instant Facial Gaussians Translator for Relightable and Interactable Facial Rendering [paper](https://arxiv.org/pdf/2409.07441) [project](https://dafei-qin.github.io/TransGS.github.io/)     
