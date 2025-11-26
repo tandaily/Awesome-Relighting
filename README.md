@@ -193,6 +193,8 @@ Hope you can help with the following:
 
 ### 3D (Face/Avatar/Human)
 
+[2023.06] [EGSR23] Learning Projective Shadow Textures for Neural Rendering of Human Cast Shadows from Silhouettes [paper](https://diglib.eg.org/handle/10.2312/sr20231125) [dataset](https://www.cvssp.org/data/crh)
+
 [2023.05] [TOG2023] NeRFFaceLighting: Implicit and Disentangled Face Lighting Representation Leveraging Generative Prior in Neural Radiance Fields [paper](https://dl.acm.org/doi/pdf/10.1145/3597300) [project](http://www.geometrylearning.com/NeRFFaceLighting/) [code](https://github.com/IGLICT/NeRFFaceLighting) ![GitHub Repo stars](https://img.shields.io/github/stars/IGLICT/NeRFFaceLighting)    
  
 [2023.08] [CVPR2024] Relightable and Animatable Neural Avatar from Sparse-View Video [paper](https://arxiv.org/pdf/2308.07903) [project](https://zju3dv.github.io/relightable_avatar) [code](https://github.com/zju3dv/RelightableAvatar) ![GitHub Repo stars](https://img.shields.io/github/stars/zju3dv/RelightableAvatar)    
@@ -208,6 +210,8 @@ Hope you can help with the following:
 [2024.05] [CVPR2024] Real-time 3D-aware Portrait Video Relighting  [paper](https://arxiv.org/pdf/2410.18355)   [code](https://github.com/GhostCai/PortraitRelighting)  ![GitHub Repo stars](https://img.shields.io/github/stars/GhostCai/PortraitRelighting)        
 
 [2024.06] [NeurIPS2024] IllumiNeRF: 3D Relighting Without Inverse Rendering [paper](https://arxiv.org/pdf/2406.06527)  [project](https://illuminerf.github.io/) [code](https://github.com/illuminerf/illuminerf_results) ![GitHub Repo stars](https://img.shields.io/github/stars/illuminerf/illuminerf_results)       
+
+[2024.07] [EGSR2024] Learning Self-Shadowing for Clothed Human Bodies [paper](https://diglib.eg.org/handle/10.2312/sr20241159) [code](https://gitlab.surrey.ac.uk/fe00135/self-shadowing)
 
 [2024.07] [SIGGRAPH2024] Lite2Relight: 3D-aware Single Image Portrait Relighting [paper](https://arxiv.org/pdf/2407.10487)         
 
