@@ -149,7 +149,7 @@ Hope you can help with the following:
 
 [2025.05] SAIL: Self-supervised Albedo Estimation from Real Images with a Latent Diffusion Model [paper](https://arxiv.org/pdf/2505.19751v1)   
 
-[2025.06] DreamLight: Towards Harmonious and Consistent Image Relighting [paper](https://arxiv.org/pdf/2506.14549) [code](https://github.com/yongliu20/DreamLight) ![GitHub Repo stars](https://img.shields.io/github/stars/yongliu20/DreamLight)       
+[2025.06] [NeurIPS2025] DreamLight: Towards Harmonious and Consistent Image Relighting [paper](https://arxiv.org/pdf/2506.14549) [code](https://github.com/yongliu20/DreamLight) ![GitHub Repo stars](https://img.shields.io/github/stars/yongliu20/DreamLight)       
 
 [2025.07] [SIGGRAPH2025] Physically Controllable Relighting of Photographs [paper](https://yaksoy.github.io/papers/SIG25-PhysicalRelighting.pdf) [project](https://yaksoy.github.io/PhysicalRelighting/)     
 
@@ -158,6 +158,8 @@ Hope you can help with the following:
 [2025.08] TransLight: Image-Guided Customized Lighting Control with Generative Decoupling [paper](https://arxiv.org/pdf/2508.14814)
 
 [2025.09] PractiLight: Practical Light Control Using Foundational Diffusion Models [paper](https://arxiv.org/pdf/2509.01837)
+
+
 
 
 ### Video
@@ -185,11 +187,15 @@ Hope you can help with the following:
 
 [2025.06] IllumiCraft: Unified Geometry and Illumination Diffusion for Controllable Video Generation [paper](https://arxiv.org/pdf/2506.03150) [project](https://yuanze-lin.me/IllumiCraft_page/)  [code](https://github.com/yuanze-lin/IllumiCraft) ![GitHub Repo stars](https://img.shields.io/github/stars/yuanze-lin/IllumiCraft)   
 
-[2025.06] UniRelight: Learning Joint Decomposition and Synthesis for Video Relighting [paper](https://arxiv.org/pdf/2506.15673) [project](https://research.nvidia.com/labs/toronto-ai/UniRelight/)  
+[2025.06] [NeurIPS2025] UniRelight: Learning Joint Decomposition and Synthesis for Video Relighting [paper](https://arxiv.org/pdf/2506.15673) [project](https://research.nvidia.com/labs/toronto-ai/UniRelight/)  
 
 [2025.06] TC-Light: Temporally Consistent Relighting for Dynamic Long Videos [paper](https://arxiv.org/pdf/2506.18904) [project](https://dekuliutesla.github.io/tclight/) [code](https://github.com/Linketic/TC-Light) ![GitHub Repo stars](https://img.shields.io/github/stars/Linketic/TC-Light)
 
 [2025.08] Lumen: Consistent Video Relighting and Harmonious Background Replacement with Video Generative Models [paper](https://arxiv.org/pdf/2508.12945)
+
+[2025.11] [NeurIPS2025] UniLumos: Fast and Unified Image and Video Relighting with Physics-Plausible Feedback [paper](https://arxiv.org/pdf/2511.01678) [code](https://github.com/alibaba-damo-academy/Lumos-Custom) ![GitHub Repo stars](https://img.shields.io/github/stars/alibaba-damo-academy/Lumos-Custom)      
+
+
 
 ### 3D (Face/Avatar/Human)
 
@@ -239,11 +245,14 @@ Hope you can help with the following:
 
 [2025.05] Generalizable and Relightable Gaussian Splatting for Human Novel View Synthesis [paper](https://arxiv.org/pdf/2505.21502) [project](https://sypj-98.github.io/grgs/)   
 
-[2025.06] BecomingLit: Relightable Gaussian Avatars with Hybrid Neural Shading [paper](https://arxiv.org/pdf/2506.06271) [project](https://jonathsch.github.io/becominglit/)     
+[2025.06] [NeurIPS2025] BecomingLit: Relightable Gaussian Avatars with Hybrid Neural Shading [paper](https://arxiv.org/pdf/2506.06271) [project](https://jonathsch.github.io/becominglit/)     
 
 [2025.07] [SIGGRAPH2025] GSHeadRelight: Fast Relightability for 3D Gaussian Head Synthesis [paper](https://orca.cardiff.ac.uk/id/eprint/178123/1/paper.pdf)  
 
 [ICCV2025] HumanOLAT: A Large-Scale Dataset for Full-Body Human Relighting and Novel-View Synthesis
+
+[2025.12] [ACM MM2025] Relightable and Dynamic Gaussian Avatar Reconstruction from Monocular Video [paper](https://arxiv.org/pdf/2512.09335)  
+
 
 ### 3D (Others)
 
@@ -264,6 +273,8 @@ Hope you can help with the following:
 [2023.12] [TOG2024] RNA: Relightable Neural Assets [paper](https://arxiv.org/pdf/2312.09398)  
 
 [2024.02] [ECCV2024] FlashTex: Fast Relightable Mesh Texturing with LightControlNet [paper](https://arxiv.org/pdf/2402.13251) [project](https://flashtex.github.io/) [code](https://github.com/Roblox/FlashTex) ![GitHub Repo stars](https://img.shields.io/github/stars/Roblox/FlashTex)  
+
+[2024.05] [NeurIPS2025] MetaGS: A Meta-Learned Gaussian-Phong Model for Out-of-Distribution 3D Scene Relighting [paper](https://arxiv.org/pdf/2405.20791)   
 
 [2024.06] [NeurIPS2024] Neural Gaffer: Relighting Any Object via Diffusion [paper](https://arxiv.org/pdf/2406.07520)  [code](https://github.com/Haian-Jin/Neural_Gaffer)  ![GitHub Repo stars](https://img.shields.io/github/stars/Haian-Jin/Neural_Gaffer)      
 
@@ -338,6 +349,8 @@ Hope you can help with the following:
 [ICCV2025] GaRe: Relightable 3D Gaussian Splatting for Outdoor Scenes from Unconstrained Photo Collections  
 
 [ICCV2025] Gaussian Splatting with Discretized SDF for Relightable Assets  
+
+[2025.10] [NeurIPS2025] ROGR: Relightable 3D Objects using Generative Relighting [paper](https://arxiv.org/pdf/2510.03163) [project](https://tangjiapeng.github.io/ROGR/)   
 
 ### Security
 
